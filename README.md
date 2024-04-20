@@ -16,3 +16,7 @@ Tools used:
     Flaticon for Icons (https://www.flaticon.com/)
   </li>
 </ul>
+
+Output Screen
+
+https://weather-forecast-appp.web.app/
